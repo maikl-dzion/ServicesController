@@ -2,7 +2,6 @@
 
 namespace App\Services\Jwt;
 
-
 class JwtAuthController implements JwtAuthInterface {
 
     private $alg;

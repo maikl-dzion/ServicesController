@@ -166,3 +166,327 @@
   'email' => 'dzr@mail.ru',
 )
 ==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 12:02:51.538655
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 12:03:25.071573
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 12:36:36.052449
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 12:41:36.691646
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 12:43:59.541816
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 12:44:26.579363
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 12:53:08.180197
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:00:18.586723
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:01:43.410574
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:04:00.767431
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:07:57.200953
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:08:36.987230
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:17:58.779361
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:18:10.455029
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:26:35.427912
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:26:56.227102
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:42:23.460136
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:43:28.989886
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:45:00.512120
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:46:34.566499
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 14:55:30.181134
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 15:09:37.120577
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 15:11:57.991635
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 15:18:51.547288
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 15:35:17.115659
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 15:37:39.308793
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
+
+==Start================
+|- DATETIME = 2020-12-24 15:40:33.061731
+|- TITLE = Error Logger
+|- LEVEL = 1
+|- SERIALIZE = a:3:{s:2:"id";s:3:"234";s:8:"username";s:5:"Maikl";s:5:"email";s:11:"dzr@mail.ru";}
+|- DATA = array (
+  'id' => '234',
+  'username' => 'Maikl',
+  'email' => 'dzr@mail.ru',
+)
+==End==================
